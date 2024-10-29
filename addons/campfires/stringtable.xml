@@ -19,5 +19,8 @@
         <Key ID="STR_wrt_campfires_marshmallow_displayName">
             <English>Marshmallows</English>
         </Key>
+        <Key ID="STR_wrt_campfires_roastMarshmallow">
+            <English>Roast marshmallow</English>
+        </Key>
     </Package>
 </Project>

@@ -8,7 +8,8 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "wrt_common"
+            "wrt_common",
+            "ace_weaponselect"
         };
         units[] = {};
         weapons[] = {};
