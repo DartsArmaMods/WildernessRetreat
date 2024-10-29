@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="MOD_ACRONYM">
+    <Package name="Main">
+        <Key ID="STR_MOD_PREFIX_main_url">
+            <English>https://github.com/DartsArmaMods/MOD_REPO</English>
+            <German>https://github.com/DartsArmaMods/MOD_REPO</German>
+            <Chinese>https://github.com/DartsArmaMods/MOD_REPO</Chinese>
+            <Chinesesimp>https://github.com/DartsArmaMods/MOD_REPO</Chinesesimp>
+            <Italian>https://github.com/DartsArmaMods/MOD_REPO</Italian>
+            <Czech>https://github.com/DartsArmaMods/MOD_REPO</Czech>
+            <Japanese>https://github.com/DartsArmaMods/MOD_REPO</Japanese>
+            <Polish>https://github.com/DartsArmaMods/MOD_REPO</Polish>
+            <French>https://github.com/DartsArmaMods/MOD_REPO</French>
+            <Portuguese>https://github.com/DartsArmaMods/MOD_REPO</Portuguese>
+            <Spanish>https://github.com/DartsArmaMods/MOD_REPO</Spanish>
+            <Turkish>https://github.com/DartsArmaMods/MOD_REPO</Turkish>
+            <Russian>https://github.com/DartsArmaMods/MOD_REPO</Russian>
+            <Korean>https://github.com/DartsArmaMods/MOD_REPO</Korean>
+        </Key>
+    </Package>
+</Project>
