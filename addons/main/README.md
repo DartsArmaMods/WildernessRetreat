@@ -1,7 +1,7 @@
-MOD_PREFIX_main
+wrt_main
 ===================
 
-Main Addon for MOD_TITLE
+Main Addon for Wilderness Retreat
 
 ## Maintainers
 
