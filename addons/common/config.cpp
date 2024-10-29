@@ -8,7 +8,7 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "wrt_common"
+            "wrt_main"
         };
         units[] = {};
         weapons[] = {};
@@ -17,6 +17,4 @@ class CfgPatches {
 };
 
 #include "CfgWeapons.hpp"
-#include "CfgMagazines.hpp"
-#include "CfgVehicles.hpp"
 #include "CfgEventHandlers.hpp"

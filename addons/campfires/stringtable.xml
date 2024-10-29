@@ -4,5 +4,20 @@
         <Key ID="STR_wrt_campfires_displayName">
             <English>Campfires</English>
         </Key>
+        <Key ID="STR_wrt_campfires_grabMarshmallow">
+            <English>Grab marshmallow</English>
+        </Key>
+        <Key ID="STR_wrt_campfires_marshmallowPack_description">
+            <English>A pack of marshmallows, make sure to share</English>
+        </Key>
+        <Key ID="STR_wrt_campfires_marshmallowPack_displayName">
+            <English>Pack of Marshmallows</English>
+        </Key>
+        <Key ID="STR_wrt_campfires_marshmallow_description">
+            <English>Perfect for roasting on a campfire, or eating on their own</English>
+        </Key>
+        <Key ID="STR_wrt_campfires_marshmallow_displayName">
+            <English>Marshmallows</English>
+        </Key>
     </Package>
 </Project>
