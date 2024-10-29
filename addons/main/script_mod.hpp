@@ -3,7 +3,7 @@
 #define MOD_NAME Wilderness Retreat
 #define AUTHOR "DartRuffian"
 
-#define REQUIRED_VERSION 2.16
+#define REQUIRED_VERSION 2.18
 #define REQUIRED_CBA_VERSION {3,18,1}
 #define REQUIRED_ACE_VERSION {3,18,1}
 
