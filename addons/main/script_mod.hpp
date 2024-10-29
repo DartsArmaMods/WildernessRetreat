@@ -1,6 +1,6 @@
 #define MAINPREFIX z
-#define PREFIX MOD_PREFIX
-#define MOD_NAME MOD_TITLE
+#define PREFIX wrt
+#define MOD_NAME Wilderness Retreat
 #define AUTHOR "Dart"
 
 #define REQUIRED_VERSION 2.16
