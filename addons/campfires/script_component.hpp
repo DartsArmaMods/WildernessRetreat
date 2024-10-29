@@ -7,3 +7,4 @@
 // #define ENABLE_PERFORMANCE_COUNTERS
 
 #include "\z\wrt\addons\main\script_macros.hpp"
+#include "script_macros.hpp"
