@@ -11,8 +11,12 @@ class CfgPatches {
             "wrt_common",
             "ace_weaponselect"
         };
-        units[] = {};
-        weapons[] = {};
+        units[] = {
+            "WRT_marshmallowPack_GH"
+        };
+        weapons[] = {
+            "WRT_marshmallowPack"
+        };
         VERSION_CONFIG;
     };
 };
