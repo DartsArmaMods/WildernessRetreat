@@ -3,19 +3,19 @@
     <Package name="Main">
         <Key ID="STR_wrt_main_url">
             <English>https://github.com/DartsArmaMods/WildernessRetreat</English>
+            <Czech>https://github.com/DartsArmaMods/WildernessRetreat</Czech>
+            <French>https://github.com/DartsArmaMods/WildernessRetreat</French>
+            <Spanish>https://github.com/DartsArmaMods/WildernessRetreat</Spanish>
+            <Italian>https://github.com/DartsArmaMods/WildernessRetreat</Italian>
+            <Polish>https://github.com/DartsArmaMods/WildernessRetreat</Polish>
+            <Portuguese>https://github.com/DartsArmaMods/WildernessRetreat</Portuguese>
+            <Russian>https://github.com/DartsArmaMods/WildernessRetreat</Russian>
             <German>https://github.com/DartsArmaMods/WildernessRetreat</German>
+            <Korean>https://github.com/DartsArmaMods/WildernessRetreat</Korean>
+            <Japanese>https://github.com/DartsArmaMods/WildernessRetreat</Japanese>
             <Chinese>https://github.com/DartsArmaMods/WildernessRetreat</Chinese>
             <Chinesesimp>https://github.com/DartsArmaMods/WildernessRetreat</Chinesesimp>
-            <Italian>https://github.com/DartsArmaMods/WildernessRetreat</Italian>
-            <Czech>https://github.com/DartsArmaMods/WildernessRetreat</Czech>
-            <Japanese>https://github.com/DartsArmaMods/WildernessRetreat</Japanese>
-            <Polish>https://github.com/DartsArmaMods/WildernessRetreat</Polish>
-            <French>https://github.com/DartsArmaMods/WildernessRetreat</French>
-            <Portuguese>https://github.com/DartsArmaMods/WildernessRetreat</Portuguese>
-            <Spanish>https://github.com/DartsArmaMods/WildernessRetreat</Spanish>
             <Turkish>https://github.com/DartsArmaMods/WildernessRetreat</Turkish>
-            <Russian>https://github.com/DartsArmaMods/WildernessRetreat</Russian>
-            <Korean>https://github.com/DartsArmaMods/WildernessRetreat</Korean>
         </Key>
     </Package>
 </Project>

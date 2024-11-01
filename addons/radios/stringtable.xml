@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="WRT">
+    <Package name="Radios">
+        <Key ID="STR_wrt_radios_displayName">
+            <English>Radios</English>
+        </Key>
+        <Key ID="STR_wrt_radios_playMusic">
+            <English>Play Music</English>
+        </Key>
+        <Key ID="STR_wrt_radios_playMusicFormat">
+            <English>Play %1</English>
+        </Key>
+        <Key ID="STR_wrt_radios_stopMusic">
+            <English>Stop Music</English>
+        </Key>
+    </Package>
+</Project>
