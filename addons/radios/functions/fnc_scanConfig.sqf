@@ -10,7 +10,7 @@
  * None
  *
  * Example:
- * [] call wrt_radio_fnc_scanConfig;
+ * [] call wrt_radios_fnc_scanConfig;
  *
  * Public: No
  */

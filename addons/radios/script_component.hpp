@@ -1,5 +1,5 @@
-#define COMPONENT radio
-#define COMPONENT_BEAUTIFIED Radio
+#define COMPONENT radios
+#define COMPONENT_BEAUTIFIED Radios
 #include "\z\wrt\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL

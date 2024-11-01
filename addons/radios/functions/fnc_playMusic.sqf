@@ -11,7 +11,7 @@
  * True if music was played, otherwise false <BOOL>
  *
  * Example:
- * [] call wrt_radio_fnc_playMusic;
+ * [] call wrt_radios_fnc_playMusic;
  *
  * Public: Yes
  */

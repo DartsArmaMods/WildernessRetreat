@@ -11,7 +11,7 @@
  * An array of ACE Actions <ARRAY>
  *
  * Example:
- * _radio call wrt_radio_fnc_playMusic_insertChildren;
+ * _radio call wrt_radios_fnc_playMusic_insertChildren;
  *
  * Public: No
  */

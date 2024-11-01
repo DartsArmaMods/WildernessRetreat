@@ -10,7 +10,7 @@
  * True if music was stopped, otherwise false
  *
  * Example:
- * _radio call wrt_radio_fnc_stopMusic;
+ * _radio call wrt_radios_fnc_stopMusic;
  *
  * Public: Yes
  */
