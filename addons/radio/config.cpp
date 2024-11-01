@@ -8,7 +8,8 @@ class CfgPatches {
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "wrt_main"
+            "wrt_main",
+            "ace_interact_menu"
         };
         units[] = {};
         weapons[] = {};
@@ -16,7 +17,9 @@ class CfgPatches {
     };
 };
 
-#include "CfgSounds.hpp"
+#include "CfgVehicles.hpp"
+#include "CfgSFX.hpp"
 #include "CfgMusic.hpp"
 #include "CfgMusicClasses.hpp"
 #include "CfgEventHandlers.hpp"
+#include "WRT_radios_music.hpp"
