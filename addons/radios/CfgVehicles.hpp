@@ -4,6 +4,10 @@ class CfgVehicles {
         RADIO_ACTIONS;
     };
 
+    class Land_SurvivalRadio_F: Items_base_F {
+        RADIO_ACTIONS;
+    };
+
     class Sound;
     SOUND_OBJ(TimberHearth,"Timber Hearth",OuterWilds);
     SOUND_OBJ(OuterWilds,"Outer Wilds",OuterWilds);
