@@ -2,5 +2,5 @@
 
 #include "XEH_PREP.hpp"
 
-uiNamespace setVariable [QGVAR(music), createHashmap];
+uiNamespace setVariable [QGVAR(music), createHashMap];
 [] call FUNC(scanConfig);

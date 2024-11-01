@@ -1,10 +1,11 @@
 #define MAINPREFIX z
 #define PREFIX wrt
 #define MOD_NAME Wilderness Retreat
-#define AUTHOR "Dart"
+#define AUTHOR "DartRuffian"
 
 #define REQUIRED_VERSION 2.16
-#define REQUIRED_CBA_VERSION {3,17,0}
+#define REQUIRED_CBA_VERSION {3,18,1}
+#define REQUIRED_ACE_VERSION {3,18,1}
 
 #include "script_version.hpp"
 
