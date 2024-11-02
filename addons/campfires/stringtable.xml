@@ -7,17 +7,20 @@
         <Key ID="STR_wrt_campfires_grabMarshmallow">
             <English>Grab marshmallow</English>
         </Key>
+        <Key ID="STR_wrt_campfires_marshmallowBurntUp">
+            <English>Your marshmallow burnt up...</English>
+        </Key>
         <Key ID="STR_wrt_campfires_marshmallowPack_description">
-            <English>A pack of marshmallows, make sure to share</English>
+            <English>A pack of marshmallows, share with those you care for.</English>
         </Key>
         <Key ID="STR_wrt_campfires_marshmallowPack_displayName">
             <English>Pack of Marshmallows</English>
         </Key>
         <Key ID="STR_wrt_campfires_marshmallow_description">
-            <English>Perfect for roasting on a campfire, or eating on their own</English>
+            <English>Perfect for roasting on a campfire, or eating on its own.</English>
         </Key>
         <Key ID="STR_wrt_campfires_marshmallow_displayName">
-            <English>Marshmallows</English>
+            <English>Marshmallow</English>
         </Key>
         <Key ID="STR_wrt_campfires_roastMarshmallow">
             <English>Roast marshmallow</English>

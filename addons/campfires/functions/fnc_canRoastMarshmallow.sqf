@@ -21,6 +21,5 @@ TRACE_2("fnc_canRoastMarshmallow",_campfire,_unit);
 
 inflamed _campfire and
 {MARSHMALLOW in magazines [_unit, true]} and {
-    private _animation = animationState _unit;
-    !(_animation in ["amovpsitmstpslowwrfldnon", "amovpsitmstpsnonwnondnon_ground"]);
+    _unit getVariable [QGVAR(roastMarshmallowPFH_id), -1] == -1;
 };

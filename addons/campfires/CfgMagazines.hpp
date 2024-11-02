@@ -10,7 +10,7 @@ class CfgMagazines {
         picture = QPATHTOF(data\ui\marshmallow_ui_ca.paa);
 
         deleteIfEmpty = 0; // Never remove
-        count = 100; // How cooked the marshmallow is
+        count = MARSHMALLOW_MAX_AMMO; // How cooked the marshmallow is
         mass = 0.5;
 
         ace_field_rations_consumeTime = 5;

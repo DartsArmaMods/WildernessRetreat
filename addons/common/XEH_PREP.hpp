@@ -1,1 +1,3 @@
-// PREP(empty);
+PREP(holsterWeapon);
+PREP(magazineIndexDetails);
+PREP(tempPFH);

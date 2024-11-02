@@ -1,4 +1,5 @@
 #define MARSHMALLOW "WRT_marshmallow"
+#define MARSHMALLOW_MAX_AMMO 100
 
 #define CAMPFIRE_ACTIONS \
     class ACE_Actions { \
