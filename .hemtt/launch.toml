@@ -14,8 +14,3 @@ parameters = []
 [camping]
 extends = "default"
 mission = "Camping.Enoch"
-
-[previews]
-extends = "default"
-mission = "Previews.VR"
-parameters = ["-name=Previews"]
